@@ -4,15 +4,21 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Me
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+A simple IT guy who appreciates a good cup of tea in the morning.  
+Born and raised in Ipoh, Perak.  
+Currently residing in Cyberjaya, Selangor.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Education
 
+- Cator Avenue Primary School, Ipoh
+- Anderson Secondary School, Ipoh
+- Perak Matriculation College, Gopeng
+- Universiti Teknikal Malaysia Melaka (UTeM) Durian Tunggal, Melaka
 
-[jekyll-organization]: https://github.com/jekyll
+## Interest
+
+1. Technology
+2. Hip Hop
+3. Life
