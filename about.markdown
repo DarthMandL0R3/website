@@ -15,7 +15,7 @@ Currently residing in Cyberjaya, Selangor.
 - Cator Avenue Primary School, Ipoh
 - Anderson Secondary School, Ipoh
 - Perak Matriculation College, Gopeng
-- Universiti Teknikal Malaysia Melaka (UTeM) Durian Tunggal, Melaka
+- Universiti Teknikal Malaysia Melaka (UTeM), Durian Tunggal
 
 ## Interest
 
