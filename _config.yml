@@ -28,7 +28,7 @@ twitter_username: DarthMandL0R3
 github_username:  DarthMandL0R3
 
 # Build settings
-theme: minima
+theme: jekyll-swiss
 plugins:
   - jekyll-feed
 
